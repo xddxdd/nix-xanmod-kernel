@@ -69,6 +69,8 @@ if __name__ == "__main__":
             "hash": nix_prefetch_hash(url),
         }
 
-    output_file = Path(__file__).resolve().parent / "version.json"
+    # The script itself may live in the read-only Nix store (via `nix run`),
+    # so write relative to the caller's cwd; assume repo root.
+    output_file = Path.cwd() / "kernel-xanmod" / "version.json"
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(versions, f, indent=2, sort_keys=True)
