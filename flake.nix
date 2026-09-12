@@ -106,14 +106,7 @@
             };
 
           hydraJobs = {
-            packages.x86_64-linux = {
-              inherit (self.packages.x86_64-linux)
-                linux-xanmod-main
-                linux-xanmod-main-lto
-                linux-xanmod-main-lto-x86_64-v3
-                linux-xanmod-main-x86_64-v3
-                ;
-            };
+            inherit (self) packages;
             nixosConfigurations = lib.mapAttrs (n: v: v.config.system.build.toplevel) self.nixosConfigurations;
           };
 
