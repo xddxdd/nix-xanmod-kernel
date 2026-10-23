@@ -1,8 +1,8 @@
 {
   "linux-xanmod-edge": {
-    "hash": "sha256-WOR1eLpL7lLXyckgX6uwzF+VNHYxQ/9uVLl/WtWE1Os=",
-    "url": "https://gitlab.com/xanmod/linux/-/archive/7.2.12-xanmod1.tar.bz2",
-    "version": "7.2.12-xanmod1"
+    "hash": "sha256-I+sgHIHHsSn6noGxP1MVZVGel7GiyXMm8EbOgcwFhrY=",
+    "url": "https://gitlab.com/xanmod/linux/-/archive/7.3.0-xanmod1.tar.bz2",
+    "version": "7.3.0-xanmod1"
   },
   "linux-xanmod-lts": {
     "hash": "sha256-WhgDACv2Gfn0huoKNaJL3FwC06Ke62WK/WQ74+SxOoI=",
