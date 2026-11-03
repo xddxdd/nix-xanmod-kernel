@@ -10,9 +10,9 @@
     "version": "6.18.60-xanmod1"
   },
   "linux-xanmod-main": {
-    "hash": "sha256-5MxJztGOxtHZOn/dkudY3VBcLgqbWIf59BSK85apsls=",
-    "url": "https://gitlab.com/xanmod/linux/-/archive/7.2.14-xanmod1.tar.bz2",
-    "version": "7.2.14-xanmod1"
+    "hash": "sha256-r2/sVX/wLqaXbos9aGitPoTFX5nIRsBzEokX6sO0IRk=",
+    "url": "https://gitlab.com/xanmod/linux/-/archive/7.2.15-xanmod1.tar.bz2",
+    "version": "7.2.15-xanmod1"
   },
   "linux-xanmod-rt": {
     "hash": "sha256-XIxdGpmiosy5KSIx4ruwdxsDVV++K7bSF5Kh81oDizM=",
