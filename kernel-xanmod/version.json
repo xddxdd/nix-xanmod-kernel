@@ -1,22 +1,22 @@
 {
   "linux-xanmod-edge": {
-    "hash": "sha256-+xTt9Za6MeQb9OBO1u7m7TfT8XBUvNpr5RYpbZTp6no=",
-    "url": "https://gitlab.com/xanmod/linux/-/archive/7.3.1-xanmod1.tar.bz2",
-    "version": "7.3.1-xanmod1"
+    "hash": "sha256-LVNts9NCbqC1thdiJDLOcK0gcb0KZEQItfF/H5kRBL8=",
+    "url": "https://gitlab.com/xanmod/linux/-/archive/7.3.3-xanmod1.tar.bz2",
+    "version": "7.3.3-xanmod1"
   },
   "linux-xanmod-lts": {
-    "hash": "sha256-+5KtRb3+DNRStFOrk/rgm4On6wJCR4GP3QYnYZ2Feqc=",
-    "url": "https://gitlab.com/xanmod/linux/-/archive/6.18.60-xanmod1.tar.bz2",
-    "version": "6.18.60-xanmod1"
+    "hash": "sha256-hykEYwOkdSCGyidOVArT743nEJMUC7ae4w0tHw22K+0=",
+    "url": "https://gitlab.com/xanmod/linux/-/archive/6.18.62-xanmod1.tar.bz2",
+    "version": "6.18.62-xanmod1"
   },
   "linux-xanmod-main": {
-    "hash": "sha256-r2/sVX/wLqaXbos9aGitPoTFX5nIRsBzEokX6sO0IRk=",
-    "url": "https://gitlab.com/xanmod/linux/-/archive/7.2.15-xanmod1.tar.bz2",
-    "version": "7.2.15-xanmod1"
+    "hash": "sha256-LVNts9NCbqC1thdiJDLOcK0gcb0KZEQItfF/H5kRBL8=",
+    "url": "https://gitlab.com/xanmod/linux/-/archive/7.3.3-xanmod1.tar.bz2",
+    "version": "7.3.3-xanmod1"
   },
   "linux-xanmod-rt": {
-    "hash": "sha256-XIxdGpmiosy5KSIx4ruwdxsDVV++K7bSF5Kh81oDizM=",
-    "url": "https://gitlab.com/xanmod/linux/-/archive/6.18.58-rt-xanmod1.tar.bz2",
-    "version": "6.18.58-rt-xanmod1"
+    "hash": "sha256-EqyqZ4e5gopKFzEoeLX3Fre9m1gws/bnC+eGMGH4N8g=",
+    "url": "https://gitlab.com/xanmod/linux/-/archive/6.18.62-rt-xanmod1.tar.bz2",
+    "version": "6.18.62-rt-xanmod1"
   }
 }
